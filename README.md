@@ -89,7 +89,7 @@ Dhanancheyan@sec:~$ cat profile.txt
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/dhanancheyan-s-839b43362)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=00FF9C)](https://leetcode.com/u/dhanancheyan/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=A855F7)](https://www.instagram.com/__dhananceyan__dop/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=A855F7)](https://www.instagram.com/__dhanancheyan__dop/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:msdv2010@gmail.com)
 
 </div>
