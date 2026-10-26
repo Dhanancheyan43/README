@@ -1,8 +1,17 @@
+<a href="https://github.com/Dhanancheyan43">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:007ACC&height=200&section=header&text=Dhanancheyan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Cybersecurity%20Student%20%7C%20_DOP_&descAlignY=58&descSize=18" alt="header" />
+</a>
+
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dhanancheyan+S;CSE+Cybersecurity+Student;Security+Enthusiast+%7C+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=I+am+Dhanancheyan;CSE+Cybersecurity+Student;_DOP_" alt="Typing SVG" />
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dhanancheyan43&style=flat-square&color=00FF9C&label=Profile+Views" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Dhanancheyan43?style=flat-square&color=00FF9C&labelColor=1a1a1a" alt="Followers" />
 
 </div>
 
@@ -10,11 +19,20 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a **Computer Science & Engineering (Cybersecurity)** student.
-- 🔐 I love breaking things to understand how to defend them — security, networking and low-level tinkering.
-- 🛠️ I build across the stack: web apps, a cross-platform ad blocker, a browser game and security tooling.
-- 🌱 Currently sharpening my skills in **offensive & defensive security** and **systems programming**.
-- 📫 Reach me at **msdv2010@gmail.com**
+```python
+class Dhanancheyan:
+    def __init__(self):
+        self.name     = "Dhanancheyan S"
+        self.role     = "CSE Cybersecurity Student"
+        self.alias    = "_DOP_"
+        self.focus    = ["Offensive Security", "Defensive Security", "Systems"]
+        self.learning = "Breaking things to learn how to defend them"
+        self.contact  = "msdv2010@gmail.com"
+```
+
+- 🔐 I love **security, networking and low-level tinkering**.
+- 🛠️ I build across the stack — a cross-platform ad blocker, security tooling, web apps and a browser game.
+- 🌱 Currently sharpening my skills in **offensive & defensive security**.
 
 ---
 
@@ -73,6 +91,28 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanancheyan43&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+> 🐍 Want the animated contribution **snake** too? Tell me and I'll add the GitHub Action that generates it.
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanancheyan43&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+
+</div>
+
+---
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -84,8 +124,4 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhanancheyan43&style=flat-square&color=00FF9C" alt="Profile views" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00FF9C&height=120&section=footer" alt="footer" />
