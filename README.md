@@ -1,127 +1,95 @@
-<a href="https://github.com/Dhanancheyan43">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,100:007ACC&height=200&section=header&text=Dhanancheyan%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Cybersecurity%20Student%20%7C%20_DOP_&descAlignY=58&descSize=18" alt="header" />
-</a>
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:00FF9C,100:00E5FF&height=110&section=header&text=Dhanancheyan%20S&fontSize=42&fontColor=E6FFF7&fontAlignY=62&desc=CSE%20Cybersecurity%20Student%20%E2%80%A2%20Offensive%20Security%20%E2%80%A2%20Developer&descAlignY=88&descSize=14&descColor=8B949E" alt="banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=I+am+Dhanancheyan;CSE+Cybersecurity+Student;_DOP_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=560&lines=Offensive+Security+Enthusiast;Network+Security+Researcher;Python+Developer;Building+Security+Tools" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dhanancheyan43&style=flat-square&color=00FF9C&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Dhanancheyan43?style=flat-square&color=00FF9C&labelColor=1a1a1a" alt="Followers" />
+`root@dhanancheyan:~#` <code>whoami → cybersecurity student • developer • _DOP_</code>
+
+<img src="https://komarev.com/ghpvc/?username=Dhanancheyan43&style=flat-square&color=00FF9C&labelColor=0D1117&label=visitors" alt="visitors" />
+<img src="https://img.shields.io/github/followers/Dhanancheyan43?style=flat-square&color=00E5FF&labelColor=0D1117&label=followers" alt="followers" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### `> whoami`
 
-```python
-class Dhanancheyan:
-    def __init__(self):
-        self.name     = "Dhanancheyan S"
-        self.role     = "CSE Cybersecurity Student"
-        self.alias    = "_DOP_"
-        self.focus    = ["Offensive Security", "Defensive Security", "Systems"]
-        self.learning = "Breaking things to learn how to defend them"
-        self.contact  = "msdv2010@gmail.com"
+```bash
+Dhanancheyan@sec:~$ cat profile.txt
+
+  name        : Dhanancheyan S
+  role        : CSE Cybersecurity Student
+  interests   : offensive security · network defense · low-level systems
+  building    : security tooling, a cross-platform ad blocker, web apps
+  learning    : exploit dev, traffic analysis, hardening — breaking to defend
+  contact     : msdv2010@gmail.com
 ```
 
-- 🔐 I love **security, networking and low-level tinkering**.
-- 🛠️ I build across the stack — a cross-platform ad blocker, security tooling, web apps and a browser game.
-- 🌱 Currently sharpening my skills in **offensive & defensive security**.
+---
+
+### `> tech_stack`
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF9C)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF9C)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF9C)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF9C)
+
+**Development**
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00E5FF)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00E5FF)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00E5FF)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00E5FF)
+
+**Cybersecurity**
+
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=A855F7)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=A855F7)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=gnometerminal&logoColor=A855F7)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=A855F7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=A855F7)
 
 ---
 
-### 🧰 Tech Stack
+### `> featured_projects`
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Security & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| 🛰️ [**IGU Sentinel**](https://github.com/HarshitJK/IGU-Sentinal) | Passive, read-only network threat detection — PCAP/one-way UDP flow records → streaming features → rules + Isolation Forest + XGBoost → fused alerts on a hash-chained log. | `Python` `Docker` |
+| 🛡️ [**AdNox**](https://github.com/Dhanancheyan43/AdNox) | No-root, network-level ad & tracker blocker for Android and Windows — sinkholes ad domains at the DNS layer across every app. | `Rust` `Android` `Windows` |
+| 🖨️ [**PrintPoint**](https://github.com/dsgoofymn-2010/PRINT-POINT) | Connects customers with local print shops — upload, live quote, pay, and collect with a 6-digit pickup code, synced live both sides. | `Node.js` `Socket.IO` `React` |
+| 🎮 [**Hollow Rage**](https://github.com/Dhanancheyan43/HOLLOW-RAGE) | A dark 2D action metroidvania that runs in the browser with no build step or dependencies. | `JavaScript` `HTML5 Canvas` |
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Built With |
-| --- | --- | --- |
-| 🛡️ [**AdNox**](https://github.com/Dhanancheyan43/AdNox) | A no-root ad & tracker blocker for Android and Windows that filters at the DNS layer across every app. | Rust, Android, Windows |
-| 📡 [**IGU Sentinel**](https://github.com/HarshitJK/IGU-Sentinal) | A passive network monitoring prototype — PCAP/flow records → ML-based (Isolation Forest, XGBoost) fused alerts with a hash-chained log. | Python, Docker |
-| 🖨️ [**PrintPoint**](https://github.com/dsgoofymn-2010/PRINT-POINT) | Connects customers with local print shops — upload files, get a live quote, pay and collect with a pickup code. | Node.js, Socket.IO, React |
-| 🎮 [**Hollow Rage**](https://github.com/Dhanancheyan43/HOLLOW-RAGE) | A dark 2D action metroidvania that runs in the browser with no build step. | JavaScript, HTML5 Canvas |
-
----
-
-### 📊 GitHub Stats
+### `> stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhanancheyan43&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanancheyan43&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Dhanancheyan43&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00FF9C&icon_color=00E5FF&text_color=8B949E&ring_color=A855F7" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanancheyan43&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=8B949E" alt="Top Languages" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanancheyan43&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanancheyan43&bg_color=0D1117&color=00FF9C&line=00E5FF&point=A855F7&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### `> connect`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhanancheyan43&theme=react-dark&bg_color=0D1117&color=00FF9C&line=00FF9C&point=ffffff&hide_border=true&area=true" alt="Contribution Graph" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00E5FF)](https://www.linkedin.com/in/dhanancheyan-s-839b43362)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=00FF9C)](https://leetcode.com/u/dhanancheyan/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=flat-square&logo=instagram&logoColor=A855F7)](https://www.instagram.com/__dhananceyan__dop/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00FF9C)](mailto:msdv2010@gmail.com)
 
 </div>
-
-> 🐍 Want the animated contribution **snake** too? Tell me and I'll add the GitHub Action that generates it.
-
----
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhanancheyan43&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanancheyan-s-839b43362)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhanancheyan/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__dhananceyan__dop/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msdv2010@gmail.com)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00FF9C&height=120&section=footer" alt="footer" />
