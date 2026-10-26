@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="210" viewBox="0 0 490 210" role="img" aria-label="Hollow Rage — A dark 2D action metroidvania that runs in the browser. Pogo strikes, soul magic, shades and benches, with no build step and no dependencies.">
+  
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00FF9C" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00FF9C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF9C" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#00FF9C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweepx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF9C"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="488" height="208" rx="10" fill="#0A0E14" stroke="#1F2A37"/>
+  <rect x="1" y="1" width="488" height="208" rx="10" fill="url(#grid)"/>
+  <rect x="1" y="1" width="488" height="208" rx="10" fill="none" stroke="#00E5FF" stroke-width="1.5" stroke-dasharray="120 1392" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" values="0;-1512" dur="7s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="1" y="22" width="3" height="40" fill="#00E5FF"/>
+  <text x="22" y="34" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#7D8590" letter-spacing="1.5">PROJECT // 04</text>
+  <text x="22" y="62" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="23" font-weight="800" fill="#E6EDF3">Hollow Rage <tspan fill="#00E5FF" font-size="17">↗</tspan></text>
+  <g>
+    <rect x="359.2" y="20" width="108.8" height="22" rx="11" fill="#00E5FF" fill-opacity="0.12" stroke="#00E5FF" stroke-opacity="0.6"/>
+    <text x="413.6" y="35" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="700" fill="#00E5FF" letter-spacing="1">BROWSER GAME</text>
+  </g>
+  <text x="22" y="92" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#C9D1D9">A dark 2D action metroidvania that runs in the</text>
+  <text x="22" y="112" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#C9D1D9">browser. Pogo strikes, soul magic, shades and</text>
+  <text x="22" y="132" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#C9D1D9">benches, with no build step and no dependencies.</text>
+  <rect x="22" y="166" width="90.0" height="24" rx="5" fill="#0D1117" stroke="#1F2A37"/>
+      <text x="67" y="182" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#C9D1D9">JavaScript</text><rect x="120" y="166" width="104.4" height="24" rx="5" fill="#0D1117" stroke="#1F2A37"/>
+      <text x="172.2" y="182" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11.5" fill="#C9D1D9">HTML5 Canvas</text>
+</svg>

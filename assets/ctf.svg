@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-label="CTF participation: BoRo CTF, HackQuest, CyberCom Valentine&#39;s Day, Into The Void, Cyber Quest, Sniphers International CTF, Script CTF, DEADFACE CTF, XploitX 2.0 · 24h Beta, CruXiper, HITCON">
+  
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00FF9C" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00FF9C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF9C" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#00FF9C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweepx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF9C"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="999" height="389" rx="12" fill="#0A0E14" stroke="#1F2A37"/>
+  <rect x="1" y="1" width="998" height="388" rx="11" fill="url(#grid)"/>
+  <text x="30" y="42" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" xml:space="preserve"><tspan fill="#00FF9C">dop@kali</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00E5FF">~/ctf</tspan><tspan fill="#7D8590">$ </tspan><tspan fill="#E6EDF3">./ctf_log --all</tspan></text>
+  <text x="970" y="42" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#7D8590" letter-spacing="1"><tspan fill="#00FF9C" font-weight="700">11</tspan> ENGAGEMENTS</text>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.20s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.20s" fill="freeze"/>
+      <rect x="30" y="70" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="30" y="82" width="3" height="38" fill="#00FF9C"/>
+      <g transform="translate(50 89) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00FF9C"/></g>
+      <text x="88" y="97" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">BoRo CTF</text>
+      <text x="88" y="116" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#01  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.29s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.29s" fill="freeze"/>
+      <rect x="350" y="70" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="350" y="82" width="3" height="38" fill="#00E5FF"/>
+      <g transform="translate(370 89) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00E5FF"/></g>
+      <text x="408" y="97" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">HackQuest</text>
+      <text x="408" y="116" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#02  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.38s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.38s" fill="freeze"/>
+      <rect x="670" y="70" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="670" y="82" width="3" height="38" fill="#A855F7"/>
+      <g transform="translate(690 89) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#A855F7"/></g>
+      <text x="728" y="97" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">CyberCom Valentine&#39;s Day</text>
+      <text x="728" y="116" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#03  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.47s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.47s" fill="freeze"/>
+      <rect x="30" y="146" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="30" y="158" width="3" height="38" fill="#00FF9C"/>
+      <g transform="translate(50 165) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00FF9C"/></g>
+      <text x="88" y="173" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">Into The Void</text>
+      <text x="88" y="192" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#04  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.56s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.56s" fill="freeze"/>
+      <rect x="350" y="146" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="350" y="158" width="3" height="38" fill="#00E5FF"/>
+      <g transform="translate(370 165) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00E5FF"/></g>
+      <text x="408" y="173" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">Cyber Quest</text>
+      <text x="408" y="192" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#05  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.65s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.65s" fill="freeze"/>
+      <rect x="670" y="146" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="670" y="158" width="3" height="38" fill="#A855F7"/>
+      <g transform="translate(690 165) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#A855F7"/></g>
+      <text x="728" y="173" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3" textLength="216" lengthAdjust="spacingAndGlyphs">Sniphers International CTF</text>
+      <text x="728" y="192" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#06  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.74s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.74s" fill="freeze"/>
+      <rect x="30" y="222" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="30" y="234" width="3" height="38" fill="#00FF9C"/>
+      <g transform="translate(50 241) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00FF9C"/></g>
+      <text x="88" y="249" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">Script CTF</text>
+      <text x="88" y="268" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#07  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.83s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.83s" fill="freeze"/>
+      <rect x="350" y="222" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="350" y="234" width="3" height="38" fill="#00E5FF"/>
+      <g transform="translate(370 241) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00E5FF"/></g>
+      <text x="408" y="249" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">DEADFACE CTF</text>
+      <text x="408" y="268" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#08  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="0.92s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="0.92s" fill="freeze"/>
+      <rect x="670" y="222" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="670" y="234" width="3" height="38" fill="#A855F7"/>
+      <g transform="translate(690 241) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#A855F7"/></g>
+      <text x="728" y="249" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">XploitX 2.0 · 24h Beta</text>
+      <text x="728" y="268" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#09  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.01s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="1.01s" fill="freeze"/>
+      <rect x="30" y="298" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="30" y="310" width="3" height="38" fill="#00FF9C"/>
+      <g transform="translate(50 317) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00FF9C"/></g>
+      <text x="88" y="325" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">CruXiper</text>
+      <text x="88" y="344" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#10  ·  PARTICIPATED</text></g><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.35s" begin="1.10s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" values="0 8;0 0" dur="0.35s" begin="1.10s" fill="freeze"/>
+      <rect x="350" y="298" width="300" height="62" rx="8" fill="#0D1117" stroke="#1F2A37"/>
+      <rect x="350" y="310" width="3" height="38" fill="#00E5FF"/>
+      <g transform="translate(370 317) scale(1)"><path d="M5 2h2v20H5zM8 3h11l-2.5 4.5L19 12H8z" fill="#00E5FF"/></g>
+      <text x="408" y="325" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" font-weight="700" fill="#E6EDF3">HITCON</text>
+      <text x="408" y="344" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10.5" fill="#7D8590" letter-spacing="1.2">#11  ·  PARTICIPATED</text></g>
+  <rect x="-220" y="1" width="220" height="388" fill="url(#sweepx)"><animate attributeName="x" values="-220;1000" dur="5s" begin="1.5s" repeatCount="indefinite"/></rect>
+</svg>

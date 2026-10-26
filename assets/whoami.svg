@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="327" viewBox="0 0 1000 327" role="img" aria-label="whoami — Dhanancheyan S, CSE Cybersecurity Student">
+  
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#00FF9C" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00FF9C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00FF9C" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#00FF9C" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sweepx" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF9C"/>
+      <stop offset="0.5" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs><defs><clipPath id="c0"><rect x="132.8" y="54" height="24" width="0"><animate attributeName="width" values="0.0;10.4;18.8;27.2;35.6;44.0;52.4" dur="0.35s" begin="0.44999999999999996s" fill="freeze" calcMode="discrete" keyTimes="0.000;0.143;0.286;0.429;0.571;0.714;0.857" /></rect></clipPath><clipPath id="c2"><rect x="132.8" y="108" height="24" width="0"><animate attributeName="width" values="0.0;10.4;18.8;27.2;35.6;44.0;52.4;60.8;69.2;77.6;86.0;94.4;102.8;111.2;119.6;128.0;136.4;144.8" dur="0.935s" begin="1.38s" fill="freeze" calcMode="discrete" keyTimes="0.000;0.056;0.111;0.167;0.222;0.278;0.333;0.389;0.444;0.500;0.556;0.611;0.667;0.722;0.778;0.833;0.889;0.944" /></rect></clipPath></defs>
+  
+  <rect x="0.5" y="0.5" width="999" height="326" rx="12" fill="#0A0E14" stroke="#1F2A37"/>
+  <rect x="1" y="36" width="998" height="290" rx="11" fill="url(#grid)"/>
+  
+  <rect x="0.5" y="0.5" width="999" height="34" rx="12" fill="#0D1117"/>
+  <rect x="0.5" y="20" width="999" height="15" fill="#0D1117"/>
+  <line x1="0" y1="35" x2="1000" y2="35" stroke="#1F2A37"/>
+  <circle cx="22" cy="18" r="5.5" fill="#FF5F56" fill-opacity="0.85"/>
+  <circle cx="40" cy="18" r="5.5" fill="#FFBD2E" fill-opacity="0.85"/>
+  <circle cx="58" cy="18" r="5.5" fill="#27C93F" fill-opacity="0.85"/>
+  <text x="500" y="22" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#7D8590">dop@kali: ~ — whoami</text>
+  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="0.3s" fill="freeze"/>
+        <text x="32" y="70" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#00FF9C">dop@kali</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#7D8590">$ </tspan></text>
+        <text x="132.8" y="70" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#E6EDF3" clip-path="url(#c0)" textLength="50.4" lengthAdjust="spacingAndGlyphs">whoami</text></g><text x="32" y="97" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#E6EDF3">dhanancheyan_s</tspan><tspan fill="#7D8590">  ::  alias </tspan><tspan fill="#00FF9C">_DOP_</tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="1.05s" fill="freeze"/></text><g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.01s" begin="1.23s" fill="freeze"/>
+        <text x="32" y="124" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#00FF9C">dop@kali</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#7D8590">$ </tspan></text>
+        <text x="132.8" y="124" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#E6EDF3" clip-path="url(#c2)" textLength="142.8" lengthAdjust="spacingAndGlyphs">cat ~/profile.txt</text></g><text x="32" y="151" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#00E5FF">role        </tspan><tspan fill="#A855F7">▸ </tspan><tspan fill="#C9D1D9">CSE Cybersecurity Student</tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="2.565s" fill="freeze"/></text><text x="32" y="178" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#00E5FF">interests   </tspan><tspan fill="#A855F7">▸ </tspan><tspan fill="#C9D1D9">offensive security · network defense · low-level systems</tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="2.745s" fill="freeze"/></text><text x="32" y="205" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#00E5FF">building    </tspan><tspan fill="#A855F7">▸ </tspan><tspan fill="#C9D1D9">security tooling · DNS-level ad blocker · web apps</tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="2.9250000000000003s" fill="freeze"/></text><text x="32" y="232" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#00E5FF">learning    </tspan><tspan fill="#A855F7">▸ </tspan><tspan fill="#C9D1D9">exploit development · traffic analysis · hardening</tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="3.1050000000000004s" fill="freeze"/></text><text x="32" y="259" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#00E5FF">motto       </tspan><tspan fill="#A855F7">▸ </tspan><tspan fill="#C9D1D9">break it to understand how to defend it</tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="3.2850000000000006s" fill="freeze"/></text><text x="32" y="286" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve" opacity="0"><tspan fill="#00FF9C">dop@kali</tspan><tspan fill="#7D8590">:</tspan><tspan fill="#00E5FF">~</tspan><tspan fill="#7D8590">$ </tspan><animate attributeName="opacity" values="0;1" dur="0.25s" begin="3.4650000000000007s" fill="freeze"/></text><rect x="132.8" y="273" width="9" height="17" fill="#00FF9C" opacity="0"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" begin="3.4650000000000007s" repeatCount="indefinite"/></rect>
+  
+  <rect x="1" y="-80" width="998" height="80" fill="url(#scan)">
+    <animate attributeName="y" values="-80;327" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
